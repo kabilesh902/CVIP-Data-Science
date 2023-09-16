@@ -27,4 +27,4 @@ This repository documents the tasks and projects completed during my data scienc
 
 ## Repository Structure
 
-- [Task 1: Describe the first task or project](https://github.com/kabilesh902/CVIP-Data-Science/blob/main/Exploratory_data_analysis_terrorism.ipynb)
+- [Task 1: Exploratory_data_analysis_terrorism](https://github.com/kabilesh902/CVIP-Data-Science/blob/main/Exploratory_data_analysis_terrorism.ipynb)
