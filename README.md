@@ -1,6 +1,6 @@
 # Data Science Internship Tasks at Coder Caves
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Overview
 
