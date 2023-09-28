@@ -29,3 +29,4 @@ This repository documents the tasks and projects completed during my data scienc
 
 - [Task 1: Exploratory_data_analysis_terrorism](https://github.com/kabilesh902/CVIP-Data-Science/blob/main/Exploratory_data_analysis_terrorism.ipynb)
 - [Task 2: Breast Cancer Prediction ](https://github.com/kabilesh902/CVIP-Data-Science/blob/main/breast_cancer.ipynb)
+- [Task 2: Breast Cancer Prediction ]( https://github.com/kabilesh902/CVIP-Data-Science/blob/main/EmailSpamDetection.ipynb)
